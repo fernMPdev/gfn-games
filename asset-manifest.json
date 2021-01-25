@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/gfn-games/static/css/main.2c8dfb45.chunk.css",
+    "main.js": "/gfn-games/static/js/main.370c4d35.chunk.js",
+    "main.js.map": "/gfn-games/static/js/main.370c4d35.chunk.js.map",
+    "runtime-main.js": "/gfn-games/static/js/runtime-main.c7cb04e5.js",
+    "runtime-main.js.map": "/gfn-games/static/js/runtime-main.c7cb04e5.js.map",
+    "static/js/2.82b55e3c.chunk.js": "/gfn-games/static/js/2.82b55e3c.chunk.js",
+    "static/js/2.82b55e3c.chunk.js.map": "/gfn-games/static/js/2.82b55e3c.chunk.js.map",
+    "static/js/3.f5afaae5.chunk.js": "/gfn-games/static/js/3.f5afaae5.chunk.js",
+    "static/js/3.f5afaae5.chunk.js.map": "/gfn-games/static/js/3.f5afaae5.chunk.js.map",
+    "index.html": "/gfn-games/index.html",
+    "static/css/main.2c8dfb45.chunk.css.map": "/gfn-games/static/css/main.2c8dfb45.chunk.css.map",
+    "static/js/2.82b55e3c.chunk.js.LICENSE.txt": "/gfn-games/static/js/2.82b55e3c.chunk.js.LICENSE.txt",
+    "static/media/5a461410d099a2ad03f9c998.f042828e.png": "/gfn-games/static/media/5a461410d099a2ad03f9c998.f042828e.png",
+    "static/media/Epic_Games_logo.6585c5e4.png": "/gfn-games/static/media/Epic_Games_logo.6585c5e4.png",
+    "static/media/Logo_de_Ubisoft.7555665c.png": "/gfn-games/static/media/Logo_de_Ubisoft.7555665c.png",
+    "static/media/steam-icon-14868.045fd6d1.png": "/gfn-games/static/media/steam-icon-14868.045fd6d1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7cb04e5.js",
+    "static/js/2.82b55e3c.chunk.js",
+    "static/css/main.2c8dfb45.chunk.css",
+    "static/js/main.370c4d35.chunk.js"
+  ]
+}
