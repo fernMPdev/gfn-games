@@ -1,0 +1,42 @@
+.Game {
+  height: 2.8em;
+  margin: 6px;
+  border: 6px solid #558504;
+  border-radius: 4px 4px 4px 4px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  font-family: inherit;
+  color: #fff;
+  font-weight: bold;
+  
+}
+.Title{
+  width: 70%;
+ 
+}
+.Logo img {
+  width: 2em;
+  margin: 5px;
+}
+
+@media (max-width: 799px) {
+  .Game {
+    width: 100%;
+  }
+}
+
+@media (min-width: 800px) {
+  .Game {
+    width: 46%;
+  }
+  .Logo img {
+    padding: 20px;
+  }
+}
+
+@media (min-width: 1175px) {
+  .Game {
+    width: 30%;
+  }
+}

@@ -1,0 +1,12 @@
+.Logo img {
+    width: 2em;
+    margin: 5px;
+  }
+  
+  @media (min-width: 800px) {
+    .Logo img {
+      padding: 20px;
+    }
+  }
+  
+ 

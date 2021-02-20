@@ -1,0 +1,26 @@
+.ContainerGames {
+  margin-top: 1.5em;
+  min-height: 10em;
+  width: 95%;
+  display: flex;
+}
+
+@media (max-width: 799px) {
+  .ContainerGames {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    
+  }
+}
+@media (min-width: 799px) {
+  .ContainerGames {
+    display: flex;
+    flex-flow: row;
+    flex-wrap: wrap;
+  }
+}
+
+
+
+
